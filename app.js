@@ -2177,12 +2177,12 @@ const tumSorular = {
         {
             soru: "15. Zn + HNO₃ → Zn(NO₃)₂ + NH₄NO₃ + H₂O reaksiya tənliyində suyun əmsalı kaçtır?",
             secenekler: ["A) 4", "B) 8", "C) 3", "D) 6", "E) 5"],
-            cevap: "D) 6"
+            cevap: "C) 3" 
         },
         {
             soru: "16. Reaksiya tənliyində ozonun əmsalını təyin edin:\nKMnO₄ + H₂SO₄ → K₂SO₄ + MnSO₄ + O₃ + H₂O",
             secenekler: ["A) 3", "B) 6", "C) 5", "D) 9", "E) 12"],
-            cevap: "A) 3"
+            cevap: "C) 5"
         },
         {
             soru: "17. KBr + KMnO₄ + H₂SO₄ → Br₂ + MnSO₄ + K₂SO₄ + H₂O reaksiya tənliyində sağ tərəfdə olan maddələrin əmsalları cəmini tapın:",
@@ -2192,7 +2192,7 @@ const tumSorular = {
         {
             soru: "18. FeSO₄ + HNO₃ + H₂SO₄ → Fe₂(SO₄)₃ + NO + H₂O reaksiya məhsullarının əmsalları cəmi kaçtır?",
             secenekler: ["A) 12", "B) 9", "C) 16", "D) 21", "E) 10"],
-            cevap: "A) 12"
+            cevap: "B) 9" 
         },
         {
             soru: "19. K₂Cr₂O₇ + FeSO₄ + H₂SO₄ → Fe₂(SO₄)₃ + Cr₂(SO₄)₃ + K₂SO₄ + H₂O reaksiya tənliyində suyun əmsalını müəyyən edin:",
@@ -2527,7 +2527,7 @@ const tumSorular = {
         {
             soru: "85. 2CxHy + 5O₂ → 4 CO₂ + yH₂O tənliyində x və y-in qiymətlərini tapın:",
             secenekler: ["A) 1, 2", "B) 2, 1", "C) 2, 2", "D) 4, 3", "E) 3, 4"],
-            cevap: "B) 2, 1"
+            cevap: "C) 2, 2"
         },
         {
             soru: "86. Butadien-1,3 molekulunda neçə karbon atomu sp² hibridləşmə halındadır:",
@@ -2587,12 +2587,12 @@ const tumSorular = {
         {
             soru: "97. Alkadienlərin ümumi formulunu göstərin:",
             secenekler: ["A) CnH2n-2", "B) CnH2n+2", "C) CnH2n", "D) CnH2n-4", "E) CnH2n-6"],
-            cevap: "A) CnH2n-2"
+            cevap: "A) CnH2n-2" 
         },
         {
             soru: "98. Alkenlər üçün doğru olmayan fikri göstərin:",
             secenekler: ["A) polimerləşirlər", "B) hidrogenlə reaksiyaya daxil olmurlar", "C) π-rabitəsinə malikdirlər", "D) karbon və hidrogendən ibarətdirlər", "E) hidratlaşmasından spirtlər alınır"],
-            cevap: "B) hidrogenlə reaksiyaya daxil olmurlar"
+            cevap: "B) hidrogenlə reaksiyaya daxil olmurlar" 
         },
         {
             soru: "99. Alkanlarda karbon atomlarında orbitalların hibridləşməsi hansıdır:",
@@ -2627,7 +2627,7 @@ const tumSorular = {
         {
             soru: "105. Penten-2 molekulunda sp² hibrid orbitalların sayını müəyyən edin:",
             secenekler: ["A) 2", "B) 5", "C) 6", "D) 4", "E) yoxdur"],
-            cevap: "D) 4"
+            cevap: "C) 6
         },
         {
             soru: "106. Butan molekulundakı sp³ hibrid orbitalların sayını müəyyən edin:",
@@ -2667,7 +2667,7 @@ const tumSorular = {
         {
             soru: "113. R-CHO ümumi formulu hansı sinfə aiddir:",
             secenekler: ["A) spirtlər", "B) aldehidlər", "C) birəsaslı üzvi karbon turşuları", "D) sadə efirlər", "E) ketonlar"],
-            cevap: "B) aldehidlər"
+            cevap: "C) birəsaslı üzvi karbon turşuları" 
         },
         {
             soru: "114. Yalnız bir maddənin adları olan sıranı göstərin:",
