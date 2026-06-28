@@ -168,7 +168,7 @@ const tumSorular = {
         {
             soru: "34. Patoloji lordoz onurğanın hansı nahiyələrində baş verən əyrilikdir?",
             secenekler: ["A) Onurğada frontal istiqamətdə", "B) Bel və oma nahiyələri", "C) Döş və bel nahiyələri", "D) Döş və oma nahiyələrində", "E) Boyun və bel nahiyələrində"],
-            cevap: "E) Boyun və bel nahiyələrində"
+            cevap: "C) Döş və bel nahiyələri"
         },
         {
             soru: "35. Burun dəliyində qoxu molekullarını qəbul edən variantı göstərin.",
