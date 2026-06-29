@@ -338,7 +338,7 @@ const tumSorular = {
         {
             soru: "68. Hansı fikir yanlışdır?",
             secenekler: ["A) Beyin maddəsi açıq-qırımızı rənglidir", "B) Böyrək paxlaşəkilli orqandır", "C) Qabıq maddə tünd-qırmızı rəngdədir", "D) Qabıq maddə paycıqlardan təşkil olunmuşdur", "E) Beyin maddəsi böyrək piramidlərindən qurulmuşdur"],
-            cevap: "D) Qabıq maddə paycıqlardan təşkil olunmuşdur"
+            cevap: "C) Qabıq maddə tünd-qırmızı rəngdədir"
         },
         {
             soru: "69. Tonzillit haqqında hansı fikir doğrudur?",
