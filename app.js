@@ -103,7 +103,7 @@ const tumSorular = {
         {
             soru: "21. Antigen haqqında hansı fikir doğrudur?",
             secenekler: ["A) Qandakı yad maddələri müəyyənləşdirir.", "B) Orqanizmə düşmüş yad cisimlərdir.", "C) Yad cisimləri udma prosesidir.", "D) Qırmızı qan hüceyrələridir.", "E) Ağ qan hüceyrələridir."],
-            cevap: "B) Orqanizmə düşmüş yad cisimlərdir."
+            cevap: "A) Qandakı yad maddələri müəyyənləşdirir."
         },
         {
             soru: "22. Orqan nədir?",
