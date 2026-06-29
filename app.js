@@ -1550,7 +1550,7 @@ const tumSorular = {
         {
             soru: "Sabit 30 m/san sürətilə hərəkət edən cismin 6 saniyədə getdiyi yolu tapın.",
             secenekler: ["A) 20 m", "B) 80 m", "C) 240 m", "D) 180 m", "E) 60 m"],
-            cevap: "C) 240 m"
+            cevap: "D) 180 m"
         },
         {
             soru: "10 N qüvvənin təsiri ilə cisim 3 m/s² təcil alır. Hansı qüvvənin təsiri ilə cisim 0,3 m/s² təcilini alar?",
@@ -1575,7 +1575,7 @@ const tumSorular = {
         {
             soru: "Yerə H hündürlükdən sərbəst düşən cismin təcili hansı düsturla ifadə olunur?",
             secenekler: ["A) GM/(R² + H)", "B) GM/R", "C) GM/R²", "D) GM/(R + H)", "E) GM/(R + H)³"],
-            cevap: "C) GM/R²"
+            cevap: "E) GM/(R + H)³"
         },
         {
             soru: "İki cismin (kürənin) qarşılıqlı təsir zamanı aldığı təcillərin nisbəti a₂/a₁ = 2-yə bərabərdir. Birinci kürənin kütləsi 8 kq olarsa, ikincinin kütləsi nə qədərdir?",
@@ -1813,9 +1813,9 @@ const tumSorular = {
             cevap: "C) 4,8·10⁻¹⁵ C"
         },
         {
-            soru: "Cərəyan şiddətinin zamandan asılılığı I = 5cos(100πt) tənliyi ilə təyin olunur. Rəqsin tezliyini tapın.",
+            soru: "Cərəyan şiddətinin zamandan asılılığı I = 5cos(600πt) tənliyi ilə təyin olunur. Rəqsin tezliyini tapın.",
             secenekler: ["A) 5 Hs", "B) 200 Hs", "C) 40 Hs", "D) 50 Hs", "E) 300 Hs"],
-            cevap: "D) 50 Hs"
+            cevap: "E) 300 Hs"
         },
         {
             soru: "Sarğacın induktivliyi 3 dəfə artarsa, induktiv müqavimət necə dəyişər?",
@@ -1905,7 +1905,7 @@ const tumSorular = {
         {
             soru: "Radiusu R və 3R olan iki keçirici kürənin hər birinin yükü 6nKl-dur. Kürələri toxundurub aralasaq onların arasında yüklər necə paylanar?",
             secenekler: ["A) 5 nKl; 7 nKl", "B) dəyişməz", "C) 12 nKl; 0", "D) 3 nKl; 9 nKl", "E) 4 nKl; 8 nKl"],
-            cevap: "E) 4 nKl; 8 nKl"
+            cevap: "D) 3 nKl; 9 nKl"
         },
         {
             soru: "Bircinsli elektrik sahəsinin intensivliyini 100 V/m qədər artırdıqda sahənin enerji sıxlığı 4 dəfə artmışdır. Sahənin intensivliyinin başlanğıc qiymətini hesablayın.",
@@ -1915,7 +1915,7 @@ const tumSorular = {
         {
             soru: "Daxili müqaviməti 9 Om olan cərəyan mənbəyi müqaviməti 12 Om olan naqilə qapanmışdır. Əgər xarici dövrədə ayrılan güc 12 Vt olarsa, mənbəyin EHQ-ni təyin edin.",
             secenekler: ["A) 24 V", "B) 22 V", "C) 18 V", "D) 26 V", "E) 21 V"],
-            cevap: "A) 24 V"
+            cevap: "E) 21 V"
         },
         {
             soru: "10⁻¹⁵ N Lorens qüvvəsinin təsiri altında bircinsli maqnit sahəsində 6 sm radiuslu çevrə üzrə dövr edən yüklü zərrəciyin kinetik enerjisini hesablayın.",
@@ -2040,7 +2040,7 @@ const tumSorular = {
         {
             soru: "Tam enerjisi E = 18·10¹² C olan cismin kütləsini tapın (c = 3·10⁸ m/s).",
             secenekler: ["A) 2 q", "B) 1 q", "C) 0,8 q", "D) 0,9 q", "E) 10 q"],
-            cevap: "A) 2 q"
+            cevap: "D) 0,9 q"
         },
         {
             soru: "Plank sabitinin vahidi hansıdır?",
@@ -2054,13 +2054,13 @@ const tumSorular = {
         },
         {
             soru: "Enerjisi 6,6·10⁻¹⁶ C olan fotonun dalğa uzunluğu nə qədərdir? (h = 6,6·10⁻³⁴ C·s, c = 3·10⁸ m/s).",
-            secenekler: ["A) 4·10¹⁸ m", "B) 3·10⁻¹ wounds m", "C) 3·10⁻¹⁸ m", "D) 2,5·10⁻¹⁰ m", "E) 3·10⁻¹⁰ m"],
-            cevap: "E) 3·10⁻¹⁰ m"
+            secenekler: ["A) 4·10¹⁸ m", "B) 3·10⁻¹⁰ wounds m", "C) 3·10⁻¹⁸ m", "D) 2,5·10⁻¹⁰ m", "E) 3·10⁻¹⁰ m"],
+            cevap: "B) 3·10⁻¹⁰ wounds m"
         },
         {
             soru: "Tezliyi 12·10¹⁴ Hs olan fotonun impulsunu hesablayın (c = 3·10⁸ m/s, h = 6,62·10⁻³⁴ C·s).",
-            secenekler: ["A) 24,4·10⁻²⁸ N·s", "B) 22,2·10⁻²⁸ N·s", "C) 18,2·10⁻²⁸ N·s", "D) 28,4·10⁻²⁸ N·s", "E) 10⁻²⁸ N·s"],
-            cevap: "D) 28,4·10⁻²⁸ N·s"
+            secenekler: ["A) 24,4·10⁻²⁸ N·s", "B) 22,2·10⁻²⁸ N·s", "C) 18,2·10⁻²⁸ N·s", "D) 28,4·10⁻²⁸ N·s", "E) 26,4.10⁻²⁸N·s"],
+            cevap: "E) 26,4.10⁻²⁸N·s"
         },
         {
             soru: "Radioaktiv parçalanma qanunu hansı ifadə ilə təyin olunur:",
