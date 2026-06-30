@@ -1574,7 +1574,7 @@ const tumSorular = {
         },
         {
             soru: "Yerə H hündürlükdən sərbəst düşən cismin təcili hansı düsturla ifadə olunur?",
-            secenekler: ["A) GM/(R² + H)", "B) GM/R", "C) GM/R²", "D) GM/(R + H)", "E) GM/(R + H)³"],
+            secenekler: ["A) GM/(R² + H)", "B) GM/R", "C) GM/R²", "D) GM/(R + H)", "E) GM/(R + H)²"],
             cevap: "E) GM/(R + H)²"
         },
         {
