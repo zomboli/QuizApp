@@ -338,7 +338,7 @@ const tumSorular = {
         {
             soru: "68. Hansı fikir yanlışdır?",
             secenekler: ["A) Beyin maddəsi açıq-qırımızı rənglidir", "B) Böyrək paxlaşəkilli orqandır", "C) Qabıq maddə tünd-qırmızı rəngdədir", "D) Qabıq maddə paycıqlardan təşkil olunmuşdur", "E) Beyin maddəsi böyrək piramidlərindən qurulmuşdur"],
-            cevap: "C) Qabıq maddə tünd-qırmızı rəngdədir"
+            cevap: "A) Beyin maddəsi açıq-qırımızı rənglidir"
         },
         {
             soru: "69. Tonzillit haqqında hansı fikir doğrudur?",
@@ -628,7 +628,7 @@ const tumSorular = {
         {
             soru: "126. Eritrositlər nədir?",
             secenekler: ["A) Qırmızı qan hüceyrələridir və oksigenin daşınmasında iştirak edir.", "B) Ağ qan hüceyrələridir və qana düşmüş yad cisimcikləri zərərsizləşdirir.", "C) Organizmə düşmüş yad cisimlərdir.", "D) Qan lövhəcikləridir və qanın laxtalanmasında iştirak edir.", "E) Organizmin daxili maye mühitidir."],
-            cevap: "A) Qırmızı qan hüceyrələridir and oksigenin daşınmasında iştirak edir."
+            cevap: "A) Qırmızı qan hüceyrələridir və oksigenin daşınmasında iştirak edir."
         },
         {
             soru: "127. Torlu qişa nədir?",
@@ -728,7 +728,7 @@ const tumSorular = {
         {
             soru: "146. Böyrəkdə neçə böyrək piramidi olur?",
             secenekler: ["A) 5-15", "B) 15-25", "C) 25-35", "D) 5-10", "E) 30-40"],
-            cevap: "A) 5-15"
+            cevap: "B) 15-25"
         },
         {
             soru: "147. Böyrək piramidləri nədən əmələ gəlmişdir?",
@@ -953,7 +953,7 @@ const tumSorular = {
         {
             soru: "191. Hansı sözlərdə nöqtələrin yerinə 'i' hərfi yazılmır?\n1. Q..ybət  2. Mer..dian  3. K..şniş  4. Münb..t  5. Müh..t",
             secenekler: ["A) 3, 4", "B) 2, 3, 5", "C) 1, 2, 3", "D) 4, 5", "E) 1, 3"],
-            cevap: "A) 3, 4"
+            cevap: "E) 1, 3"
         },
         {
             soru: "192. Hansı sözdə səslərin sayı hərflərin sayından azdır?",
@@ -968,7 +968,7 @@ const tumSorular = {
         {
             soru: "194. Hansı mürəkkəb sözün tərkibində üç sadə söz var?",
             secenekler: ["A) Itburnu", "B) Əlüzyuyan", "C) Kəklikotu", "D) Ayaqqabı", "E) Günəbaxan"],
-            cevap: "C) Kəklikotu"
+            cevap: "B) Əlüzyuyan"
         },
         {
             soru: "195. Hansı mürəkkəb söz antonim sözlərin birləşməsindən əmələ gəlib?",
@@ -1103,7 +1103,7 @@ const tumSorular = {
         {
             soru: "221. Deyilişi ilə yazılışı fərqlənən sözü göstərin:",
             secenekler: ["A) Əlaçı", "B) İdrak", "C) Dağ", "D) Ləpir", "E) Müdafiə"],
-            cevap: "C) Dağ"
+            cevap: "E) Müdafiə"
         },
         {
             soru: "222. Çoxaltma dərəcəsində olan sifəti tapın.",
@@ -1198,7 +1198,7 @@ const tumSorular = {
         {
             soru: "240. 'Namusunu hifz etməyə, Bayrağını yüksəltməyə Cümlə gənclər ... ' Dövlət himnimizdən götürülmüş parçada nöqtələrin yerinə hansı söz yazılmalıdır?",
             secenekler: ["A) Səfərbərdir", "B) Hazırdır", "C) Lazımdır", "D) Müştaqdır", "E) Qadirdir"],
-            cevap: "B) Hazırdır"
+            cevap: "D) Müştaqdır"
         },
         {
             soru: "241. Hansı sözə saitlə başlayan şəkilçi qoşduqda q-ğ əvəzlənməsi baş vermir?",
@@ -1213,7 +1213,7 @@ const tumSorular = {
         {
             soru: "243. 'İnsanlar yeni əraziləri mənimsədikcə ətraf təbiəti daim dəyişdirmişlər' cümləsindəki mənimsədikcə sözünü hansı sözlə əvəz etmək olar?",
             secenekler: ["A) Ələ keçirdikcə", "B) Əldən verdikcə", "C) Payladıqca", "D) İstifadə etdikcə", "E) Müəyyən etdikcə"],
-            cevap: "D) İstifadə etdikcə"
+            cevap: "A) Ələ keçirdikcə"
         },
         {
             soru: "244. Feildən düzələn isimlərdən biri mücərrəd mənalıdır.",
@@ -1238,7 +1238,7 @@ const tumSorular = {
         {
             soru: "248. 'Vətəni sevməyən insan olmaz, Olsa, ..... vicdan olmaz'! - nöqtələrin yerinə uyğun variantı seçin.",
             secenekler: ["A) O kəsdə", "B) Onda", "C) Ol şəxsdə", "D) Həmin şəxsdə", "E) O insanda"],
-            cevap: "B) Onda"
+            cevap: "C) Ol şəxsdə"
         },
         {
             soru: "249. 28 May tarixi Azərbaycan xalqı üçün hansı əlamətdar gün ilə əlaqədardır?",
@@ -1575,7 +1575,7 @@ const tumSorular = {
         {
             soru: "Yerə H hündürlükdən sərbəst düşən cismin təcili hansı düsturla ifadə olunur?",
             secenekler: ["A) GM/(R² + H)", "B) GM/R", "C) GM/R²", "D) GM/(R + H)", "E) GM/(R + H)³"],
-            cevap: "E) GM/(R + H)³"
+            cevap: "E) GM/(R + H)²"
         },
         {
             soru: "İki cismin (kürənin) qarşılıqlı təsir zamanı aldığı təcillərin nisbəti a₂/a₁ = 2-yə bərabərdir. Birinci kürənin kütləsi 8 kq olarsa, ikincinin kütləsi nə qədərdir?",
@@ -2055,7 +2055,7 @@ const tumSorular = {
         {
             soru: "Enerjisi 6,6·10⁻¹⁶ C olan fotonun dalğa uzunluğu nə qədərdir? (h = 6,6·10⁻³⁴ C·s, c = 3·10⁸ m/s).",
             secenekler: ["A) 4·10¹⁸ m", "B) 3·10⁻¹⁰ wounds m", "C) 3·10⁻¹⁸ m", "D) 2,5·10⁻¹⁰ m", "E) 3·10⁻¹⁰ m"],
-            cevap: "B) 3·10⁻¹⁰ wounds m"
+            cevap: "C) 3·10⁻¹⁸ m"
         },
         {
             soru: "Tezliyi 12·10¹⁴ Hs olan fotonun impulsunu hesablayın (c = 3·10⁸ m/s, h = 6,62·10⁻³⁴ C·s).",
