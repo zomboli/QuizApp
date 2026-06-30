@@ -1068,7 +1068,7 @@ const tumSorular = {
         {
             soru: "214. Mən bir uşaq, sən bir ana, Odur ki, bağlıyam ..... . Nöqtələrin yerinə hansı söz yazılmalıdır?",
             secenekler: ["A) Sana", "B) Sənə", "C) Vətənimə", "D) Ölkəmə", "E) Azərbaycana"],
-            cevap: "B) Sənə"
+            cevap: "A) Sana"
         },
         {
             soru: "215. Hansı cümlədə II şəxsin cəmində olan mənsubiyyət şəkilçisi işlənmişdir?",
