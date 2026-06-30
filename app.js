@@ -4368,7 +4368,7 @@ const tumSorular = {
 
             secenekler: ["A) 26", "B) 8", "C) 15", "D) 21", "E) 30"],
 
-            cevap: "A) 26"
+            cevap: "D) 21"
 
         },
 
@@ -5449,7 +5449,7 @@ const tumSorular = {
 
             secenekler: ["A) 4", "B) 1", "C) 2", "D) 3", "E) 5"],
 
-            cevap: "D) 3"
+            cevap: "A) 4"
 
         },
 
@@ -5519,7 +5519,7 @@ const tumSorular = {
 
             secenekler: ["A) Diafraqma", "B) Bronx", "C) Baş beyin", "D) Böyrək axarı", "E) Dalaq"],
 
-            cevap: "B) Bronx"
+            cevap: "A) Diafraqma"
 
         },
 
@@ -5779,7 +5779,7 @@ const tumSorular = {
 
             secenekler: ["A) Nefron", "B) Alveolalar", "C) Nəfəs borusu", "D) Mədə", "E) Neyron"],
 
-            cevap: "E) Neyron"
+            cevap: "A) Nefron"
 
         },
 
